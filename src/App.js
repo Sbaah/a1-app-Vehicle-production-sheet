@@ -94,7 +94,8 @@ const Home = () => {
       <p>
         {' '}
         The Basic Premiss is to create a Vehicle production sheet Which Allow
-        for CRUD Applications/Functionalities.{' '}
+        for CRUD Applications/Functionalities. CRUD Meaning: Create, Read,
+        Update and Delete.
       </p>
       <p>&nbsp;</p>
     </div>
